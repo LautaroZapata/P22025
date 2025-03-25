@@ -1,0 +1,28 @@
+C:\Users\alex\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\P2\codigo\Menu\ProyectoConsola\Menu\bin\Debug\net8.0\Menu.exe
+C:\Users\alex\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\P2\codigo\Menu\ProyectoConsola\Menu\bin\Debug\net8.0\Menu.deps.json
+C:\Users\alex\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\P2\codigo\Menu\ProyectoConsola\Menu\bin\Debug\net8.0\Menu.runtimeconfig.json
+C:\Users\alex\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\P2\codigo\Menu\ProyectoConsola\Menu\bin\Debug\net8.0\Menu.dll
+C:\Users\alex\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\P2\codigo\Menu\ProyectoConsola\Menu\bin\Debug\net8.0\Menu.pdb
+C:\Users\alex\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\P2\codigo\Menu\ProyectoConsola\Menu\obj\Debug\net8.0\Menu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\P2\codigo\Menu\ProyectoConsola\Menu\obj\Debug\net8.0\Menu.AssemblyInfoInputs.cache
+C:\Users\alex\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\P2\codigo\Menu\ProyectoConsola\Menu\obj\Debug\net8.0\Menu.AssemblyInfo.cs
+C:\Users\alex\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\P2\codigo\Menu\ProyectoConsola\Menu\obj\Debug\net8.0\Menu.csproj.CoreCompileInputs.cache
+C:\Users\alex\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\P2\codigo\Menu\ProyectoConsola\Menu\obj\Debug\net8.0\Menu.dll
+C:\Users\alex\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\P2\codigo\Menu\ProyectoConsola\Menu\obj\Debug\net8.0\refint\Menu.dll
+C:\Users\alex\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\P2\codigo\Menu\ProyectoConsola\Menu\obj\Debug\net8.0\Menu.pdb
+C:\Users\alex\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\P2\codigo\Menu\ProyectoConsola\Menu\obj\Debug\net8.0\Menu.genruntimeconfig.cache
+C:\Users\alex\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\P2\codigo\Menu\ProyectoConsola\Menu\obj\Debug\net8.0\ref\Menu.dll
+C:\Development\ORT\P2 2025\Menu\ProyectoConsola\Menu\bin\Debug\net8.0\Menu.exe
+C:\Development\ORT\P2 2025\Menu\ProyectoConsola\Menu\bin\Debug\net8.0\Menu.deps.json
+C:\Development\ORT\P2 2025\Menu\ProyectoConsola\Menu\bin\Debug\net8.0\Menu.runtimeconfig.json
+C:\Development\ORT\P2 2025\Menu\ProyectoConsola\Menu\bin\Debug\net8.0\Menu.dll
+C:\Development\ORT\P2 2025\Menu\ProyectoConsola\Menu\bin\Debug\net8.0\Menu.pdb
+C:\Development\ORT\P2 2025\Menu\ProyectoConsola\Menu\obj\Debug\net8.0\Menu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\ORT\P2 2025\Menu\ProyectoConsola\Menu\obj\Debug\net8.0\Menu.AssemblyInfoInputs.cache
+C:\Development\ORT\P2 2025\Menu\ProyectoConsola\Menu\obj\Debug\net8.0\Menu.AssemblyInfo.cs
+C:\Development\ORT\P2 2025\Menu\ProyectoConsola\Menu\obj\Debug\net8.0\Menu.csproj.CoreCompileInputs.cache
+C:\Development\ORT\P2 2025\Menu\ProyectoConsola\Menu\obj\Debug\net8.0\Menu.dll
+C:\Development\ORT\P2 2025\Menu\ProyectoConsola\Menu\obj\Debug\net8.0\refint\Menu.dll
+C:\Development\ORT\P2 2025\Menu\ProyectoConsola\Menu\obj\Debug\net8.0\Menu.pdb
+C:\Development\ORT\P2 2025\Menu\ProyectoConsola\Menu\obj\Debug\net8.0\Menu.genruntimeconfig.cache
+C:\Development\ORT\P2 2025\Menu\ProyectoConsola\Menu\obj\Debug\net8.0\ref\Menu.dll
