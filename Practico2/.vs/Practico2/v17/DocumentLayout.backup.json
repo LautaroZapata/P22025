@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Development\\P2 2025\\Practico2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A972501F-D536-4A73-8394-F1F808CA5C9A}|Dominio\\Dominio.csproj|c:\\development\\p2 2025\\practico2\\dominio\\citamedica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A972501F-D536-4A73-8394-F1F808CA5C9A}|Dominio\\Dominio.csproj|solutionrelative:dominio\\citamedica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E05BDB1-3EBF-4500-B5B7-DB4B43F9841D}|Practico2\\Practico2.csproj|c:\\development\\p2 2025\\practico2\\practico2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E05BDB1-3EBF-4500-B5B7-DB4B43F9841D}|Practico2\\Practico2.csproj|solutionrelative:practico2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CitaMedica.cs",
+              "DocumentMoniker": "C:\\Development\\P2 2025\\Practico2\\Dominio\\CitaMedica.cs",
+              "RelativeDocumentMoniker": "Dominio\\CitaMedica.cs",
+              "ToolTip": "C:\\Development\\P2 2025\\Practico2\\Dominio\\CitaMedica.cs*",
+              "RelativeToolTip": "Dominio\\CitaMedica.cs*",
+              "ViewState": "AgIAAB4AAAAAAAAAAAA8wCoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T00:29:45.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Development\\P2 2025\\Practico2\\Practico2\\Program.cs",
+              "RelativeDocumentMoniker": "Practico2\\Program.cs",
+              "ToolTip": "C:\\Development\\P2 2025\\Practico2\\Practico2\\Program.cs",
+              "RelativeToolTip": "Practico2\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAmwB4AAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T22:06:20.855Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

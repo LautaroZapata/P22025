@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35913.81 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practico2", "Practico2\Practico2.csproj", "{1E05BDB1-3EBF-4500-B5B7-DB4B43F9841D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dominio", "Dominio\Dominio.csproj", "{A972501F-D536-4A73-8394-F1F808CA5C9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E05BDB1-3EBF-4500-B5B7-DB4B43F9841D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E05BDB1-3EBF-4500-B5B7-DB4B43F9841D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E05BDB1-3EBF-4500-B5B7-DB4B43F9841D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E05BDB1-3EBF-4500-B5B7-DB4B43F9841D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A972501F-D536-4A73-8394-F1F808CA5C9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A972501F-D536-4A73-8394-F1F808CA5C9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A972501F-D536-4A73-8394-F1F808CA5C9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A972501F-D536-4A73-8394-F1F808CA5C9A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C1D116A-C820-4C6C-909D-8EC3B3F17CA1}
+	EndGlobalSection
+EndGlobal
