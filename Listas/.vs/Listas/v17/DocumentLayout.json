@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Development\\P22025\\Listas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A81CE6F-BBA6-4E47-B146-A8B117461A2A}|Dominio\\Dominio.csproj|c:\\development\\p22025\\listas\\dominio\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A81CE6F-BBA6-4E47-B146-A8B117461A2A}|Dominio\\Dominio.csproj|solutionrelative:dominio\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED64AD0-F359-4732-83B5-FBC033D3B351}|Listas\\Listas.csproj|c:\\development\\p22025\\listas\\listas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ED64AD0-F359-4732-83B5-FBC033D3B351}|Listas\\Listas.csproj|solutionrelative:listas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A81CE6F-BBA6-4E47-B146-A8B117461A2A}|Dominio\\Dominio.csproj|c:\\development\\p22025\\listas\\dominio\\mascota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A81CE6F-BBA6-4E47-B146-A8B117461A2A}|Dominio\\Dominio.csproj|solutionrelative:dominio\\mascota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Mascota.cs",
+              "DocumentMoniker": "C:\\Development\\P22025\\Listas\\Dominio\\Mascota.cs",
+              "RelativeDocumentMoniker": "Dominio\\Mascota.cs",
+              "ToolTip": "C:\\Development\\P22025\\Listas\\Dominio\\Mascota.cs",
+              "RelativeToolTip": "Dominio\\Mascota.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAIwDIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T23:26:28.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Development\\P22025\\Listas\\Dominio\\Persona.cs",
+              "RelativeDocumentMoniker": "Dominio\\Persona.cs",
+              "ToolTip": "C:\\Development\\P22025\\Listas\\Dominio\\Persona.cs",
+              "RelativeToolTip": "Dominio\\Persona.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T23:26:16.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Development\\P22025\\Listas\\Listas\\Program.cs",
+              "RelativeDocumentMoniker": "Listas\\Program.cs",
+              "ToolTip": "C:\\Development\\P22025\\Listas\\Listas\\Program.cs",
+              "RelativeToolTip": "Listas\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T23:22:49.069Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
