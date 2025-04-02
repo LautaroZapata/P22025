@@ -1,0 +1,33 @@
+C:\Users\alex\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\P2\codigo\Clase01P2N2D\Pr3Ej1\Pr3Ej1\Consola\bin\Debug\net8.0\Consola.exe
+C:\Users\alex\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\P2\codigo\Clase01P2N2D\Pr3Ej1\Pr3Ej1\Consola\bin\Debug\net8.0\Consola.deps.json
+C:\Users\alex\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\P2\codigo\Clase01P2N2D\Pr3Ej1\Pr3Ej1\Consola\bin\Debug\net8.0\Consola.runtimeconfig.json
+C:\Users\alex\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\P2\codigo\Clase01P2N2D\Pr3Ej1\Pr3Ej1\Consola\bin\Debug\net8.0\Consola.dll
+C:\Users\alex\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\P2\codigo\Clase01P2N2D\Pr3Ej1\Pr3Ej1\Consola\bin\Debug\net8.0\Consola.pdb
+C:\Users\alex\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\P2\codigo\Clase01P2N2D\Pr3Ej1\Pr3Ej1\Consola\obj\Debug\net8.0\Consola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\P2\codigo\Clase01P2N2D\Pr3Ej1\Pr3Ej1\Consola\obj\Debug\net8.0\Consola.AssemblyInfoInputs.cache
+C:\Users\alex\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\P2\codigo\Clase01P2N2D\Pr3Ej1\Pr3Ej1\Consola\obj\Debug\net8.0\Consola.AssemblyInfo.cs
+C:\Users\alex\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\P2\codigo\Clase01P2N2D\Pr3Ej1\Pr3Ej1\Consola\obj\Debug\net8.0\Consola.csproj.CoreCompileInputs.cache
+C:\Users\alex\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\P2\codigo\Clase01P2N2D\Pr3Ej1\Pr3Ej1\Consola\obj\Debug\net8.0\Consola.dll
+C:\Users\alex\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\P2\codigo\Clase01P2N2D\Pr3Ej1\Pr3Ej1\Consola\obj\Debug\net8.0\refint\Consola.dll
+C:\Users\alex\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\P2\codigo\Clase01P2N2D\Pr3Ej1\Pr3Ej1\Consola\obj\Debug\net8.0\Consola.pdb
+C:\Users\alex\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\P2\codigo\Clase01P2N2D\Pr3Ej1\Pr3Ej1\Consola\obj\Debug\net8.0\Consola.genruntimeconfig.cache
+C:\Users\alex\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\P2\codigo\Clase01P2N2D\Pr3Ej1\Pr3Ej1\Consola\obj\Debug\net8.0\ref\Consola.dll
+C:\Development\P22025\Pr3Ej1\Pr3Ej1\Pr3Ej1\Consola\bin\Debug\net8.0\Consola.exe
+C:\Development\P22025\Pr3Ej1\Pr3Ej1\Pr3Ej1\Consola\bin\Debug\net8.0\Consola.deps.json
+C:\Development\P22025\Pr3Ej1\Pr3Ej1\Pr3Ej1\Consola\bin\Debug\net8.0\Consola.runtimeconfig.json
+C:\Development\P22025\Pr3Ej1\Pr3Ej1\Pr3Ej1\Consola\bin\Debug\net8.0\Consola.dll
+C:\Development\P22025\Pr3Ej1\Pr3Ej1\Pr3Ej1\Consola\bin\Debug\net8.0\Consola.pdb
+C:\Development\P22025\Pr3Ej1\Pr3Ej1\Pr3Ej1\Consola\bin\Debug\net8.0\Dominio.dll
+C:\Development\P22025\Pr3Ej1\Pr3Ej1\Pr3Ej1\Consola\bin\Debug\net8.0\Dominio.pdb
+C:\Development\P22025\Pr3Ej1\Pr3Ej1\Pr3Ej1\Consola\obj\Debug\net8.0\Consola.csproj.AssemblyReference.cache
+C:\Development\P22025\Pr3Ej1\Pr3Ej1\Pr3Ej1\Consola\obj\Debug\net8.0\Consola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\P22025\Pr3Ej1\Pr3Ej1\Pr3Ej1\Consola\obj\Debug\net8.0\Consola.AssemblyInfoInputs.cache
+C:\Development\P22025\Pr3Ej1\Pr3Ej1\Pr3Ej1\Consola\obj\Debug\net8.0\Consola.AssemblyInfo.cs
+C:\Development\P22025\Pr3Ej1\Pr3Ej1\Pr3Ej1\Consola\obj\Debug\net8.0\Consola.csproj.CoreCompileInputs.cache
+C:\Development\P22025\Pr3Ej1\Pr3Ej1\Pr3Ej1\Consola\obj\Debug\net8.0\Consola.sourcelink.json
+C:\Development\P22025\Pr3Ej1\Pr3Ej1\Pr3Ej1\Consola\obj\Debug\net8.0\Consola.csproj.Up2Date
+C:\Development\P22025\Pr3Ej1\Pr3Ej1\Pr3Ej1\Consola\obj\Debug\net8.0\Consola.dll
+C:\Development\P22025\Pr3Ej1\Pr3Ej1\Pr3Ej1\Consola\obj\Debug\net8.0\refint\Consola.dll
+C:\Development\P22025\Pr3Ej1\Pr3Ej1\Pr3Ej1\Consola\obj\Debug\net8.0\Consola.pdb
+C:\Development\P22025\Pr3Ej1\Pr3Ej1\Pr3Ej1\Consola\obj\Debug\net8.0\Consola.genruntimeconfig.cache
+C:\Development\P22025\Pr3Ej1\Pr3Ej1\Pr3Ej1\Consola\obj\Debug\net8.0\ref\Consola.dll

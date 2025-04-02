@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Development\\P22025\\Practico 3 EJ2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32FAFB50-3765-4AB6-BC4F-8CA8B0EFF5C9}|Dominio\\Dominio.csproj|c:\\development\\p22025\\practico 3 ej2\\dominio\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32FAFB50-3765-4AB6-BC4F-8CA8B0EFF5C9}|Dominio\\Dominio.csproj|solutionrelative:dominio\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89B32124-EF6C-49E0-88FB-AABC41CBB1F9}|Practico 3 EJ2\\Practico 3 EJ2.csproj|c:\\development\\p22025\\practico 3 ej2\\practico 3 ej2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89B32124-EF6C-49E0-88FB-AABC41CBB1F9}|Practico 3 EJ2\\Practico 3 EJ2.csproj|solutionrelative:practico 3 ej2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32FAFB50-3765-4AB6-BC4F-8CA8B0EFF5C9}|Dominio\\Dominio.csproj|c:\\development\\p22025\\practico 3 ej2\\dominio\\marca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32FAFB50-3765-4AB6-BC4F-8CA8B0EFF5C9}|Dominio\\Dominio.csproj|solutionrelative:dominio\\marca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Marca.cs",
+              "DocumentMoniker": "C:\\Development\\P22025\\Practico 3 EJ2\\Dominio\\Marca.cs",
+              "RelativeDocumentMoniker": "Dominio\\Marca.cs",
+              "ToolTip": "C:\\Development\\P22025\\Practico 3 EJ2\\Dominio\\Marca.cs",
+              "RelativeToolTip": "Dominio\\Marca.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T00:10:37.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Auto.cs",
+              "DocumentMoniker": "C:\\Development\\P22025\\Practico 3 EJ2\\Dominio\\Auto.cs",
+              "RelativeDocumentMoniker": "Dominio\\Auto.cs",
+              "ToolTip": "C:\\Development\\P22025\\Practico 3 EJ2\\Dominio\\Auto.cs",
+              "RelativeToolTip": "Dominio\\Auto.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAcwCgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T00:09:21.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Development\\P22025\\Practico 3 EJ2\\Practico 3 EJ2\\Program.cs",
+              "RelativeDocumentMoniker": "Practico 3 EJ2\\Program.cs",
+              "ToolTip": "C:\\Development\\P22025\\Practico 3 EJ2\\Practico 3 EJ2\\Program.cs",
+              "RelativeToolTip": "Practico 3 EJ2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T00:02:40.36Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practico3 EJ3", "Practico3 EJ3\Practico3 EJ3.csproj", "{7068B85B-B434-4309-ACCE-CCF5A1D00A38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dominio", "Dominio\Dominio.csproj", "{B0F9DA93-3A87-4AC5-990E-8E1067C25632}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7068B85B-B434-4309-ACCE-CCF5A1D00A38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7068B85B-B434-4309-ACCE-CCF5A1D00A38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7068B85B-B434-4309-ACCE-CCF5A1D00A38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7068B85B-B434-4309-ACCE-CCF5A1D00A38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0F9DA93-3A87-4AC5-990E-8E1067C25632}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0F9DA93-3A87-4AC5-990E-8E1067C25632}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0F9DA93-3A87-4AC5-990E-8E1067C25632}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0F9DA93-3A87-4AC5-990E-8E1067C25632}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64B6710B-A8A8-4D37-8468-77F5037B66F8}
+	EndGlobalSection
+EndGlobal

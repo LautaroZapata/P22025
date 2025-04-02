@@ -1,0 +1,19 @@
+C:\Development\P22025\Practico 3 EJ2\Practico 3 EJ2\bin\Debug\net8.0\Practico 3 EJ2.exe
+C:\Development\P22025\Practico 3 EJ2\Practico 3 EJ2\bin\Debug\net8.0\Practico 3 EJ2.deps.json
+C:\Development\P22025\Practico 3 EJ2\Practico 3 EJ2\bin\Debug\net8.0\Practico 3 EJ2.runtimeconfig.json
+C:\Development\P22025\Practico 3 EJ2\Practico 3 EJ2\bin\Debug\net8.0\Practico 3 EJ2.dll
+C:\Development\P22025\Practico 3 EJ2\Practico 3 EJ2\bin\Debug\net8.0\Practico 3 EJ2.pdb
+C:\Development\P22025\Practico 3 EJ2\Practico 3 EJ2\obj\Debug\net8.0\Practico 3 EJ2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\P22025\Practico 3 EJ2\Practico 3 EJ2\obj\Debug\net8.0\Practico 3 EJ2.AssemblyInfoInputs.cache
+C:\Development\P22025\Practico 3 EJ2\Practico 3 EJ2\obj\Debug\net8.0\Practico 3 EJ2.AssemblyInfo.cs
+C:\Development\P22025\Practico 3 EJ2\Practico 3 EJ2\obj\Debug\net8.0\Practico 3 EJ2.csproj.CoreCompileInputs.cache
+C:\Development\P22025\Practico 3 EJ2\Practico 3 EJ2\obj\Debug\net8.0\Practico 3 EJ2.sourcelink.json
+C:\Development\P22025\Practico 3 EJ2\Practico 3 EJ2\obj\Debug\net8.0\Practico 3 EJ2.dll
+C:\Development\P22025\Practico 3 EJ2\Practico 3 EJ2\obj\Debug\net8.0\refint\Practico 3 EJ2.dll
+C:\Development\P22025\Practico 3 EJ2\Practico 3 EJ2\obj\Debug\net8.0\Practico 3 EJ2.pdb
+C:\Development\P22025\Practico 3 EJ2\Practico 3 EJ2\obj\Debug\net8.0\Practico 3 EJ2.genruntimeconfig.cache
+C:\Development\P22025\Practico 3 EJ2\Practico 3 EJ2\obj\Debug\net8.0\ref\Practico 3 EJ2.dll
+C:\Development\P22025\Practico 3 EJ2\Practico 3 EJ2\bin\Debug\net8.0\Dominio.dll
+C:\Development\P22025\Practico 3 EJ2\Practico 3 EJ2\bin\Debug\net8.0\Dominio.pdb
+C:\Development\P22025\Practico 3 EJ2\Practico 3 EJ2\obj\Debug\net8.0\Practico 3 EJ2.csproj.AssemblyReference.cache
+C:\Development\P22025\Practico 3 EJ2\Practico 3 EJ2\obj\Debug\net8.0\Practico.47A3CD54.Up2Date

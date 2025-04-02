@@ -1,0 +1,16 @@
+C:\Users\alex\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\P2\codigo\Clase01P2N2D\Pr3Ej1\Pr3Ej1\Dominio\obj\Debug\net8.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\P2\codigo\Clase01P2N2D\Pr3Ej1\Pr3Ej1\Dominio\obj\Debug\net8.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\alex\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\P2\codigo\Clase01P2N2D\Pr3Ej1\Pr3Ej1\Dominio\obj\Debug\net8.0\Dominio.AssemblyInfo.cs
+C:\Users\alex\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\P2\codigo\Clase01P2N2D\Pr3Ej1\Pr3Ej1\Dominio\obj\Debug\net8.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Development\P22025\Pr3Ej1\Pr3Ej1\Pr3Ej1\Dominio\bin\Debug\net8.0\Dominio.deps.json
+C:\Development\P22025\Pr3Ej1\Pr3Ej1\Pr3Ej1\Dominio\bin\Debug\net8.0\Dominio.dll
+C:\Development\P22025\Pr3Ej1\Pr3Ej1\Pr3Ej1\Dominio\bin\Debug\net8.0\Dominio.pdb
+C:\Development\P22025\Pr3Ej1\Pr3Ej1\Pr3Ej1\Dominio\obj\Debug\net8.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\P22025\Pr3Ej1\Pr3Ej1\Pr3Ej1\Dominio\obj\Debug\net8.0\Dominio.AssemblyInfoInputs.cache
+C:\Development\P22025\Pr3Ej1\Pr3Ej1\Pr3Ej1\Dominio\obj\Debug\net8.0\Dominio.AssemblyInfo.cs
+C:\Development\P22025\Pr3Ej1\Pr3Ej1\Pr3Ej1\Dominio\obj\Debug\net8.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Development\P22025\Pr3Ej1\Pr3Ej1\Pr3Ej1\Dominio\obj\Debug\net8.0\Dominio.sourcelink.json
+C:\Development\P22025\Pr3Ej1\Pr3Ej1\Pr3Ej1\Dominio\obj\Debug\net8.0\Dominio.dll
+C:\Development\P22025\Pr3Ej1\Pr3Ej1\Pr3Ej1\Dominio\obj\Debug\net8.0\refint\Dominio.dll
+C:\Development\P22025\Pr3Ej1\Pr3Ej1\Pr3Ej1\Dominio\obj\Debug\net8.0\Dominio.pdb
+C:\Development\P22025\Pr3Ej1\Pr3Ej1\Pr3Ej1\Dominio\obj\Debug\net8.0\ref\Dominio.dll

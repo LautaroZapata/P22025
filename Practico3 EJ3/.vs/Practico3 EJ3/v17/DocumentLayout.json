@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Development\\P22025\\Practico3 EJ3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7068B85B-B434-4309-ACCE-CCF5A1D00A38}|Practico3 EJ3\\Practico3 EJ3.csproj|c:\\development\\p22025\\practico3 ej3\\practico3 ej3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7068B85B-B434-4309-ACCE-CCF5A1D00A38}|Practico3 EJ3\\Practico3 EJ3.csproj|solutionrelative:practico3 ej3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0F9DA93-3A87-4AC5-990E-8E1067C25632}|Dominio\\Dominio.csproj|c:\\development\\p22025\\practico3 ej3\\dominio\\socio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0F9DA93-3A87-4AC5-990E-8E1067C25632}|Dominio\\Dominio.csproj|solutionrelative:dominio\\socio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0F9DA93-3A87-4AC5-990E-8E1067C25632}|Dominio\\Dominio.csproj|c:\\development\\p22025\\practico3 ej3\\dominio\\deporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0F9DA93-3A87-4AC5-990E-8E1067C25632}|Dominio\\Dominio.csproj|solutionrelative:dominio\\deporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Deporte.cs",
+              "DocumentMoniker": "C:\\Development\\P22025\\Practico3 EJ3\\Dominio\\Deporte.cs",
+              "RelativeDocumentMoniker": "Dominio\\Deporte.cs",
+              "ToolTip": "C:\\Development\\P22025\\Practico3 EJ3\\Dominio\\Deporte.cs",
+              "RelativeToolTip": "Dominio\\Deporte.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T00:35:30.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Socio.cs",
+              "DocumentMoniker": "C:\\Development\\P22025\\Practico3 EJ3\\Dominio\\Socio.cs",
+              "RelativeDocumentMoniker": "Dominio\\Socio.cs",
+              "ToolTip": "C:\\Development\\P22025\\Practico3 EJ3\\Dominio\\Socio.cs",
+              "RelativeToolTip": "Dominio\\Socio.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwCAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T00:35:22.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Development\\P22025\\Practico3 EJ3\\Practico3 EJ3\\Program.cs",
+              "RelativeDocumentMoniker": "Practico3 EJ3\\Program.cs",
+              "ToolTip": "C:\\Development\\P22025\\Practico3 EJ3\\Practico3 EJ3\\Program.cs",
+              "RelativeToolTip": "Practico3 EJ3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T00:34:42.875Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

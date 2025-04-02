@@ -1,0 +1,19 @@
+C:\Development\P22025\Practico3 EJ3\Practico3 EJ3\bin\Debug\net8.0\Practico3 EJ3.exe
+C:\Development\P22025\Practico3 EJ3\Practico3 EJ3\bin\Debug\net8.0\Practico3 EJ3.deps.json
+C:\Development\P22025\Practico3 EJ3\Practico3 EJ3\bin\Debug\net8.0\Practico3 EJ3.runtimeconfig.json
+C:\Development\P22025\Practico3 EJ3\Practico3 EJ3\bin\Debug\net8.0\Practico3 EJ3.dll
+C:\Development\P22025\Practico3 EJ3\Practico3 EJ3\bin\Debug\net8.0\Practico3 EJ3.pdb
+C:\Development\P22025\Practico3 EJ3\Practico3 EJ3\bin\Debug\net8.0\Dominio.dll
+C:\Development\P22025\Practico3 EJ3\Practico3 EJ3\bin\Debug\net8.0\Dominio.pdb
+C:\Development\P22025\Practico3 EJ3\Practico3 EJ3\obj\Debug\net8.0\Practico3 EJ3.csproj.AssemblyReference.cache
+C:\Development\P22025\Practico3 EJ3\Practico3 EJ3\obj\Debug\net8.0\Practico3 EJ3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\P22025\Practico3 EJ3\Practico3 EJ3\obj\Debug\net8.0\Practico3 EJ3.AssemblyInfoInputs.cache
+C:\Development\P22025\Practico3 EJ3\Practico3 EJ3\obj\Debug\net8.0\Practico3 EJ3.AssemblyInfo.cs
+C:\Development\P22025\Practico3 EJ3\Practico3 EJ3\obj\Debug\net8.0\Practico3 EJ3.csproj.CoreCompileInputs.cache
+C:\Development\P22025\Practico3 EJ3\Practico3 EJ3\obj\Debug\net8.0\Practico3 EJ3.sourcelink.json
+C:\Development\P22025\Practico3 EJ3\Practico3 EJ3\obj\Debug\net8.0\Practico.D92F1705.Up2Date
+C:\Development\P22025\Practico3 EJ3\Practico3 EJ3\obj\Debug\net8.0\Practico3 EJ3.dll
+C:\Development\P22025\Practico3 EJ3\Practico3 EJ3\obj\Debug\net8.0\refint\Practico3 EJ3.dll
+C:\Development\P22025\Practico3 EJ3\Practico3 EJ3\obj\Debug\net8.0\Practico3 EJ3.pdb
+C:\Development\P22025\Practico3 EJ3\Practico3 EJ3\obj\Debug\net8.0\Practico3 EJ3.genruntimeconfig.cache
+C:\Development\P22025\Practico3 EJ3\Practico3 EJ3\obj\Debug\net8.0\ref\Practico3 EJ3.dll
